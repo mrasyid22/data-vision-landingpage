@@ -53,9 +53,6 @@ export function Hero() {
                 {t('hero.cta')}
               </a>
             </Button>
-            <span className="text-sm text-muted-foreground">
-              {t('hero.trust')}
-            </span>
           </div>
         </div>
       </div>

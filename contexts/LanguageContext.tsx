@@ -151,7 +151,6 @@ const translations = {
     'hero.feature3': 'Insight Analysis',
     'hero.feature4': 'Semi Real-time Dashboard',
     'hero.cta': 'Start 14-Day Free Trial',
-    'hero.trust': '500+ Indonesian businesses have increased ROAS by 2.5x',
 
     // Value Proposition
     'valueprop.title': 'The Big Problem You Don\'t Know About',
